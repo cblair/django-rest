@@ -1,2 +1,5 @@
 django == 3.2.9
-djangorestframework ===3.12.4
+djangorestframework == 3.12.4
+# For swagger
+PyYAML == 6.0
+uritemplate == 4.1.1
